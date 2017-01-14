@@ -21,10 +21,12 @@ I am an experienced game developer who is passionate about creating great games.
 I joined BossAlien as a graduate developer and progressed into a senior role. I am currently a generalist programmer and have worked in many areas across multiple titles in all stages of development.
 
 CSR Racing (iOS, Android):
+
 * Developed new features and content for major and minor releases
 * Contributions included UI, Live Events Systems, Client and Server prototyping, Platform & Facebook SDK integration
 
 Two unreleased and in-development titles:
+
 * Gameplay prototyping
 * Built flexible MVVM based UI framework for unity
 * Developed various tools for content creation
