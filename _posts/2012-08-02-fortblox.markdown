@@ -1,0 +1,37 @@
+---
+layout: post
+title:  "Fortblox"
+date:   2012-08-02 00:00:03 +0000
+permalink: /fortblox/
+categories: fortblox portfolio
+---
+Fortblox is a multiplayer first person shooter featuring fast paced team combat and fully destructible environments, developed as a hobby project on and off since 2010. As one of two programmers working on the project I have made major contributions to the design and implementation of all areas of the game, including:
+
+## Gameplay
+When we began the project we set out with the aim of creating a game featuring base construction, defence, destruction and infiltration. We took inspiration from games such as Infiniminer and Minecraft which feature blocky voxel environments. Our favourite games for gunplay are fast paced shooters like Team Fortress 2, Tribes and Warsow so expect to see jetpacks, rocket launchers and lazer rifles.
+
+## OpenGL graphics engine
+From the very start of the project we have adopted the philosophy of avoiding large game engine libraries allowing us to create something truly unique while learning a great deal about game engine design and implementation in the process.
+
+[![Fortblox image 1](/download/thumbnail.fb1.png)](/download/fb1.png)
+[![Fortblox image 2](/download/thumbnail.fb2.png)](/download/fb2.png)
+[![Fortblox image 3](/download/thumbnail.fb3.jpg)](/download/fb3.jpg)
+
+## Skeletal character animation
+Through developing the graphics engine I have explored many graphics techniques including character animation. While developing the character animation system I have also gained a little experience with the character art pipline and tools.
+
+[![Fortblox image 4](/download/thumbnail.fb4.png)](/download/fb4.png)
+[![Fortblox image 5](/download/thumbnail.fb5.png)](/download/fb5.png)
+[![Fortblox image 6](/download/thumbnail.fb6.png)](/download/fb6.png)
+
+## User interface toolkit
+An aim we had when building ingame menus was to create a reusable GUI toolkit which we could embed in our other projects. The event driven UI toolkit provides us with variousUI components including buttons, textboxes, sliders etc. Rendering the UI is performed by the game's graphics library.
+
+[![Fortblox image 7](/download/thumbnail.fb7.png)](/download/fb7.png)
+[![Fortblox image 8](/download/thumbnail.fb8.png)](/download/fb8.png)
+[![Fortblox image 9](/download/thumbnail.fb9.png)](/download/fb9.png)
+
+## Level editor
+One of the goals we had with building the game was to enable creative players to build and share their own levels. To make this as simple as possible we built the level editor into the game. We will enable the editor as a multiplayer gamemode to allow collaborative level design. At some point in the future we would like to explore the possibility of scripted server game modes to allow further modding and to enable game server providers the opportunity to offer a unique experience.
+
+[![YT Fortblox Animation Blending](https://img.youtube.com/vi/zxqWnp8Fljg/0.jpg)](https://www.youtube.com/watch?v=zxqWnp8Fljg)

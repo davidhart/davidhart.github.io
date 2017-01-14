@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "Procedural Cave Modelling and Rendering"
+date:   2012-08-02 00:00:02 +0000
+permalink: /cave/
+categories: portfolio
+---
+In the summer of 2011 I completed my third year project, titled "Cave Modelling and Rendering", as part of the degree programme at the University of Hull. The main focus of this project was developing a technique for modelling cave surfaces in game environments. I developed a volume modelling technique which allowed artists to quickly lay the groundwork for a general cave shape, while surface details are added proceudrally. To present the technique I implemented an environment editor and simple game.
+
+[![Cave image 1](/download/thumbnail.cave1.png)](/download/cave1.png)
+[![Cave image 2](/download/thumbnail.cave2.png)](/download/cave2.png)
+[![Cave image 3](/download/thumbnail.cave3.png)](/download/cave3.png)
+
+Rather than adopting traditional polygonal modelling of the cave which requires an artist to meticulously design the cave and surface details, the approach I presented first has the artist define the general shape of the cave by selecting and positioning a series of volume filling functions. After the general cave shape is decided the surface is perturbed by a series of noise functions which introduce details such as rocks or even stalamites and shelves when the noise function is stretched.
+
+The diagram below shows how a 2D cross-section of the cave may look where the shade represents volume density, black being air, white being the rock surrounding the cave. The resulting cave surface can be seen in the bottom row of the diagram after iso-surface extraction at a particular threshold. In 3D I use marching cubes performed on the GPU with a geometry shader to extract the surface in realtime as the level designer makes changes.
+
+![Cave cross-section diagram](/download/cave-diagram.png)
+
+The following video shows the environment editor I developed through the project. In the early stages of the level production a number of metaballs are added to define the general cave shape. Numerous octaves of noise are blended with the surface to introduce the surface detail and then point lights are added. The editor makes use of the GUI library [gwen](https://github.com/garrynewman/GWEN).
+
+## Videos
+
+[![YT Cave Modelling WIP 4](https://img.youtube.com/vi/NGRnckC55Fg/0.jpg)](https://www.youtube.com/watch?v=NGRnckC55Fg)   
+
+[![YT Cave Modelling WIP 3](https://img.youtube.com/vi/QWfSpuYlGC8/0.jpg)](https://www.youtube.com/watch?v=QWfSpuYlGC8)     
+
+[![YT Cave Modelling WIP 2](https://img.youtube.com/vi/WnpY6hA_dco/0.jpg)](https://www.youtube.com/watch?v=WnpY6hA_dco)   
+
+[![YT Cave Modelling WIP 1](https://img.youtube.com/vi/LLSA73EO2gw/0.jpg)](https://www.youtube.com/watch?v=LLSA73EO2gw)   
