@@ -21,7 +21,7 @@ I am an experienced game developer who is passionate about creating great games.
 
 #### __2012-Current__ Senior Game Programmer - BossAlien, Naturalmotion UK
 
-I joined BossAlien as a graduate developer and progressed into a senior role. I am currently a generalist programmer and have worked in many areas across multiple titles in all stages of development.
+I joined BossAlien as a graduate developer shortly after the release of the studio's first game, CSR Racing. Since then I have worked as a generalist programmer across multiple titles, in all stages of development and progressed into a senior role.
 
 CSR Racing (iOS, Android):
 
@@ -64,4 +64,4 @@ GCSEs include: Mathematics, Science, English Language & Literature, French, Germ
 
 ## Interests
 
-I play and enjoy all kinds of games. I particularly love competetive strategy games such as Starcraft 2 and DOTA. I enjoy and have taken part in multiple game-jams at various events, as both a developer and in supervisory roles.
+I play all kinds of games but particularly love competitive strategy games such as Starcraft 2 and DOTA. I enjoy and have attended multiple game-jams as both a developer and in supervisory roles.
