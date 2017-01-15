@@ -19,7 +19,7 @@ I am an experienced game developer who is passionate about creating great games.
 
 ## Employment
 
-#### __2012-Current__ Senior Game Programmer - BossAlien, Naturalmotion UK
+#### __2012-Current__ Senior Game Programmer - BossAlien, NaturalMotion UK
 
 I joined BossAlien as a graduate developer shortly after the release of the studio's first game, CSR Racing. Since then I have worked as a generalist programmer across multiple titles, in all stages of development and progressed into a senior role.
 
