@@ -26,14 +26,14 @@ I joined BossAlien as a graduate developer shortly after the release of the stud
 CSR Racing (iOS, Android):
 
 - Developed new features and content for major and minor releases
-- Contributions included UI, Live Events Systems, Client and Server prototyping, Platform & Facebook SDK integration
+- Contributions included UI, live events, client and server prototyping, platform & facebook SDK integration
 ^
 
 Two unreleased and in-development titles:
 
 - Gameplay prototyping
-- Built flexible MVVM based UI framework for unity
-- Developed various tools for content creation
+- Built flexible MVVM UI framework for Unity
+- Various tools for content creation
 - VFX and graphics optimization
 ^
 
